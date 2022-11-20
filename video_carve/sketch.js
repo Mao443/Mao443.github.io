@@ -50,7 +50,7 @@ function draw() {
 function vidLoad(){
 
   video.hide();
-  video.addCue(15, jumpToPage, "carve.html");
+  video.addCue(15, jumpToPage, "../carve.html");
  
 }
 
